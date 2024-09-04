@@ -1,9 +1,10 @@
 
+🚀 Data Engineer & Analytics Enthusiast | Turning Data into Dollars 💰 & Insights 📊
 
-- 👋 Hi, I’m @jugalsheth
-- Master in Engineering Management and enthusiastic about Data Analytics and Machine learning
-- I am quite fond of learning new technologies, other than Python, R, SQL and Tableau my strongest skill is learning and *Googleling*
-- Recent Graduate looking for a full time opportunity in Analytics and i would be more than happy to ammend bring new perspective and changes in the company regarding migration to cloud, applying NLP or clustering to increase any specific metrics for growth 
+Hi there! I'm a passionate Data Engineer who loves building robust ETL pipelines, automating processes, and designing insightful dashboards. With a knack for integrating complex data systems and translating data into business impact, I've saved companies millions through data-driven decisions.
+
+🛠️ Tools of the Trade: Python (pandas, NumPy, Matplotlib, Selenium), SQL, Snowflake, AWS, GCP, Airflow, Tableau, Power BI, Matillion, Looker, Databricks, Docker, and more!
+
 - I also blog about life and i would call myself extremely thoughtful:  https://www.blogger.com/blog/posts/2321089170418064692  
 Do check them out
 Also add me on linkedln : https://www.linkedin.com/in/jugal-sheth/
