@@ -5,8 +5,6 @@ Hi there! I'm a passionate Data Engineer who loves building robust ETL pipelines
 
 🛠️ Tools of the Trade: Python (pandas, NumPy, Matplotlib, Selenium), SQL, Snowflake, AWS, GCP, Airflow, Tableau, Power BI, Matillion, Looker, Databricks, Docker, and more!
 
-- I also blog about life and i would call myself extremely thoughtful:  https://www.blogger.com/blog/posts/2321089170418064692  
-Do check them out
 Also add me on linkedln : https://www.linkedin.com/in/jugal-sheth/
 <!---
 jugalsheth/jugalsheth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
