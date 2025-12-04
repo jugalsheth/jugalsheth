@@ -14,6 +14,4 @@ Building scalable data platforms, AI-powered solutions, and end-to-end applicati
 💼 LinkedIn: https://www.linkedin.com/in/jugal-sheth/
 ---
 
-💡 **Open to:** Full-time opportunities in Solutions Engineering, Data Engineering, Product Engineering, and AI/ML roles
-
 ⭐️ From [jugalsheth](https://github.com/jugalsheth)
